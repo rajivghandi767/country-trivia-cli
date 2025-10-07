@@ -2,7 +2,9 @@
 
 A fun command-line interface (CLI) trivia game to test your knowledge of world capitals\!
 
-![Main Menu](image.png)
+\<p align="center"\>
+\<img src="image.png" alt="Screenshot of Main Menu" width="400"/\>
+\</p\>
 
 ---
 
