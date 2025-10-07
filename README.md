@@ -129,7 +129,7 @@ This project utilizes fundamental concepts of data structures and algorithms to 
 This CLI application is **no longer in active development**, and no new features will be added. The project is being continuously developed as a full-stack web application.
 
 For the latest version, please visit the new repository:
-**[github.com/rajivghandi767/country-trivia-web](https://www.google.com/search?q=https://github.com/rajivghandi767/country-trivia-web)**
+**[github.com/rajivghandi767/country-trivia-web](https://github.com/rajivghandi767/country-trivia-web)**
 
 ---
 
@@ -152,4 +152,4 @@ This project is distributed under the MIT License. See the `LICENSE` file for mo
 
 Rajiv Wallace - [@rajivghandi767](https://github.com/rajivghandi767) - rajivghandi972@gmail.com
 
-Project Link: [https://github.com/rajivghandi767/country-trivia-cli](https://www.google.com/search?q=https://github.com/rajivghandi767/country-trivia-cli)
+Project Link: [https://github.com/rajivghandi767/country-trivia-cli](https://github.com/rajivghandi767/country-trivia-cli)
