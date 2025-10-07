@@ -9,17 +9,17 @@ A fun command-line interface (CLI) trivia game to test your knowledge of world c
 
 ## 📜 Table of Contents
 
-- [About The Project](https://www.google.com/search?q=%23-about-the-project)
-- [✨ Features](https://www.google.com/search?q=%23-features)
-- [🚀 Getting Started](https://www.google.com/search?q=%23-getting-started)
-  - [Prerequisites](https://www.google.com/search?q=%23prerequisites)
-  - [Installation](https://www.google.com/search?q=%23installation)
-- [🎮 How to Play](https://www.google.com/search?q=%23-how-to-play)
-- [🧠 Data Structures & Algorithms](https://www.google.com/search?q=%23-data-structures--algorithms)
-- [⚠️ Archived Project](https://www.google.com/search?q=%23%EF%B8%8F-archived-project)
-- [🛠️ Known Issues](https://www.google.com/search?q=%23%EF%B8%8F-known-issues)
-- [📄 License](https://www.google.com/search?q=%23-license)
-- [📬 Contact](https://www.google.com/search?q=%23-contact)
+- [About The Project](#-about-the-project)
+- [✨ Features](#-features)
+- [🚀 Getting Started](#-getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [🎮 How to Play](#-how-to-play)
+- [🧠 Data Structures & Algorithms](#-data-structures--algorithms)
+- [⚠️ Archived Project](#️-archived-project)
+- [🛠️ Known Issues](#️-known-issues)
+- [📄 License](#-license)
+- [📬 Contact](#-contact)
 
 ---
 
