@@ -102,7 +102,7 @@ pip --version
     - To exit the game at any time, press `Ctrl+C`.
 
 \<p align="center"\>
-\<img src="[https://github.com/rajivghandi767/country-trivia-cli/assets/74517632/3efcf555-0255-4d6c-9104-554902cf0f2e](https://github.com/rajivghandi767/country-trivia-cli/assets/74517632/3efcf555-0255-4d6c-9104-554902cf0f2e)" alt="Screenshot of guessing a capital" width="400"/\>
+\<img src="[https://github.com/rajivghandi767/country-trivia-cli/assets/74517632/3efcf555-0255-4d6c-9104-554902cf0f2e](https://github.com/rajivghandi767/CountryTrivia/assets/74517632/3efcf555-0255-4d6c-9104-554902cf0f2e)" alt="Screenshot of guessing a capital" width="400"/\>
 \</p\>
 
 ---
