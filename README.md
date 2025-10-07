@@ -2,7 +2,7 @@
 
 A fun command-line interface (CLI) trivia game to test your knowledge of world capitals\!
 
-https://private-user-images.githubusercontent.com/74517632/498487600-43dd8b0a-1a08-44a6-bd33-15c696d3400e.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTk4NjQ0NDUsIm5iZiI6MTc1OTg2NDE0NSwicGF0aCI6Ii83NDUxNzYzMi80OTg0ODc2MDAtNDNkZDhiMGEtMWEwOC00NGE2LWJkMzMtMTVjNjk2ZDM0MDBlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDA3VDE5MDkwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI1NjU4OTkyZjhhMzg2MzZmMDljZDJmNDBjZmIzNWU2NmFhZDhkYjA3NTFmNjhlZTA3MDE0MzhhMTFmNDE0YmMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ndonGZbn-NC9eEZNvx3NbmYzhhV9Uk16zJOiB7smZro
+<img width="380" height="172" alt="Screen Shot 2025-10-07 at 15 00 57" src="https://github.com/user-attachments/assets/de508e61-4f20-4aa0-b2f3-9b133eed2ba3" />
 
 ---
 
@@ -98,7 +98,10 @@ pip --version
     - Type your answer and press `Enter`.
     - If you want to go back to the main menu, type `0` and press `Enter`.
     - To exit the game at any time, press `Ctrl+C`.
-      
+
+<img width="371" height="124" alt="Screen Shot 2025-10-07 at 15 03 15" src="https://github.com/user-attachments/assets/cf7a68bd-85f1-47bc-804e-9b8af630964e" />
+
+<img width="373" height="123" alt="Screen Shot 2025-10-07 at 15 03 47" src="https://github.com/user-attachments/assets/379c5601-b6c5-47c8-80b7-d8978076912d" />  
 ---
 
 ## 🧠 Data Structures & Algorithms
