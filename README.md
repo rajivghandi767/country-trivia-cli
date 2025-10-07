@@ -3,7 +3,7 @@
 A fun command-line interface (CLI) trivia game to test your knowledge of world capitals\!
 
 \<p align="center"\>
-\<img src="image.png" alt="Screenshot of Main Menu" width="400"/\>
+\<img width="802" height="418" alt="image" src="https://github.com/user-attachments/assets/be4f8679-bb6a-4c6a-bed1-e0309ad8fb51" />
 \</p\>
 
 ---
