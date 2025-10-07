@@ -1,12 +1,8 @@
 # 🗺️ Country Trivia CLI 🌍
 
-\<p align="center"\>
 A fun command-line interface (CLI) trivia game to test your knowledge of world capitals\!
-\</p\>
 
-\<p align="center"\>
-\<img src="[https://github.com/rajivghandi767/country-trivia-cli/assets/74517632/8dad0937-6f40-40a9-b301-b6effa70aca5](https://github.com/rajivghandi767/country-trivia-cli/assets/74517632/8dad0937-6f40-40a9-b301-b6effa70aca5)" alt="Screenshot of Main Menu" width="400"/\>
-\</p\>
+![Main Menu](image.png)
 
 ---
 
