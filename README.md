@@ -25,15 +25,13 @@ A fun command-line interface (CLI) trivia game to test your knowledge of world c
 
 ## 📖 About The Project
 
-**Country Trivia CLI** is a simple yet engaging trivia game built with Python. It's designed to challenge your geography skills by asking you to guess the capital of a given country or the country of a given capital. The project uses a local SQLite database to store and retrieve trivia data, making it fast and efficient.
+**Country Trivia CLI** is a simple yet engaging trivia game built with Python. It's designed to challenge your geography skills by asking you to guess the capital of a given country or the country of a given capital. Country data is loaded directly from a local CSV file using Python's built-in `csv` module — no external dependencies required.
 
-This project was created as a fun way to practice Python fundamentals, file handling, and database interaction.
+This project was created as a fun way to practice Python fundamentals, file handling, and data structures.
 
 **Tech Stack:**
 
-- **Python**
-- **SQLite** for data storage
-- **Pandas** for data handling
+- **Python 3** (stdlib only — `csv`, `random`)
 
 ---
 
@@ -73,11 +71,12 @@ pip --version
     cd country-trivia-cli
     ```
 
-3.  **Install the required packages:**
+3.  **No installation needed** — the game uses Python's standard library only.
 
-    ```bash
-    pip install -r requirements.txt
-    ```
+    > **Maintainers:** To install the dependency update tool, run:
+    > ```bash
+    > pip install -r dev-requirements.txt
+    > ```
 
 ---
 
