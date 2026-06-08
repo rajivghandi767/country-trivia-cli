@@ -1,26 +1,19 @@
-import sqlite3
-from sqlite3 import Error
-import pandas as pd
+import csv
 
-csv_data = pd.read_csv("data/country_capitals.csv")
-csv_data.columns = csv_data.columns.str.strip()
+# Reads CSV directly with stdlib — no pandas or sqlite3 needed.
+# Returns list of (country, capital) tuples matching the original contract.
 
 
-def fetch_sql_db():
-    connection = None
-    try:
-        connection = sqlite3.connect(
-            "data/country_capitals.db")
-        # print("Connection to DB Successful")
-    except Error as e:
-        print(f"Error: {e} has occured")
-
-    csv_data.to_sql("game_data", connection, if_exists="replace")
-    cursor = connection.cursor()
-    cursor.execute("select country,capital from game_data")
-    country_city_pair = cursor.fetchall()
-
-    return country_city_pair
+def fetch_csv_data() -> list[tuple[str, str]]:
+    pairs = []
+    with open("data/country_capitals.csv", newline="", encoding="utf-8") as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            country = row["Country"].strip()
+            capital = row["Capital"].strip()
+            if country and capital:
+                pairs.append((country, capital))
+    return pairs
 
 
-country_capital_data = fetch_sql_db()
+country_capital_data = fetch_csv_data()
