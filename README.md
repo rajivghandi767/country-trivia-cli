@@ -147,8 +147,11 @@ This project is distributed under the MIT License. See the `LICENSE` file for mo
 
 ---
 
-## 📬 Contact
+## 📬 Let's Connect
 
-Rajiv Wallace - [@rajivghandi767](https://github.com/rajivghandi767) - rajivghandi972@gmail.com
+**Rajiv Wallace**  
+*Self-taught Software Engineer based in NYC (originally from Dominica 🇩🇲). Aviation nerd, Formula One fan, Chelsea FC supporter, and passionate about robust Backend Development and bare-metal DevOps.*
 
-Project Link: [https://github.com/rajivghandi767/country-trivia-cli](https://github.com/rajivghandi767/country-trivia-cli)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajiv-wallace)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dev@rajivwallace.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=dev.to&logoColor=white)](https://rajivwallace.com)
