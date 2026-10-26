@@ -1,2 +1,0 @@
-# Runtime dependencies — stdlib only, nothing to install.
-# The game uses: csv, sqlite3 (removed), random — all built into Python 3.x.
