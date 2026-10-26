@@ -71,12 +71,7 @@ pip --version
     cd country-trivia-cli
     ```
 
-3.  **No installation needed** — the game uses Python's standard library only.
-
-    > **Maintainers:** To install the dependency update tool, run:
-    > ```bash
-    > pip install -r dev-requirements.txt
-    > ```
+3.  **No installation needed** — the game uses Python's standard library only (`pyproject.toml` and `uv.lock` are included for project metadata and `uv` environment management).
 
 ---
 
